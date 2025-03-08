@@ -7,7 +7,8 @@ let valueInNumber = Number(score)
 //console.log(typeof valueInNumber);
 //console.log(valueInNumber);
 
-
+let isNumber = parseInt('232Titas200');
+console.log(isNumber);
 // "33" => 33
 // "33abc" => NaN
 //  true => 1; false => 0
