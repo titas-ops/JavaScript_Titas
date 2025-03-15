@@ -1,7 +1,8 @@
-console.log("hello");
-const a = 30
+var babyAge = 1;
+var isBirthday = true;
 
-console.log(a);
-const P = "enter your name "
+if (isBirthday) {
+    var babyAge = 2; 
+}
 
-console.log(`my name is ${P}`);
+console.log(babyAge); 
